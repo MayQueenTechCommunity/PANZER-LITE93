@@ -15,6 +15,32 @@ The PANZER-LITE93 BSP includes Linux kernel up to 6.6, Yocto/Ubuntu BSP and U-Bo
 Because PANZER-LITE93 has a NPU inside the CPU, so we implementing AI functions for Linux OS such as TensorFlow-Lite, or OpenCV, etc..
 <br>
 
+#### Overview
+|                         Lightweight AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/3df16d8e-c3fe-4ad1-a475-d0e72f498828" width="200"/> | **PANZER-LITE93** <br />     3.5" ARM64 edge AI Computing with NXP i.MX93 |  Ubuntu LTS |[Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-LITE93/wiki/Ubuntu-Zone) |
+
+
+|                         Specifications                         |                                                   |
+| :----------------------------------------------------------: | :----------------------------------------------------------- |
+| CPU | **NXP i.MX93** <br />    ARM Cortex-A55 1.7GHz Dual Cores + Cortex-M33 250MHz Solo Core |
+| Memory | 2GB LPDDR4 |
+| Storage | 32GB eMMC <br /> uSD slot|
+| Neural Nework | 0.5 TOPS NPU |
+| PMIC | NXP PCA9452 |
+| Display | HDMI-TX|
+| Audio | Headset connector |
+| Network | 2x Gigabit Ethernet / RGMII <br> 1x WiFi6E <br> 1x Bluetooth 5 |
+| USB | 1x USB 2.0 host <br /> 1 x USB type-C |
+| FLEXCAN | 2x PIN-HEADER |
+| 40 Pin Header | SPI <br> GPIO <br> |
+| General I/O | <br /> 3 x custom key <br /> 1x RTC |
+| Debug | type-C connector |
+| Supply Voltage | 5Volt USB type-C connector |
+| Dimensions | 155 x 110 x 35 (mm) |
+| Temp. range | 0C to 40C |
+<br>
+
 
 #### About MayQueen Technologies
 MayQueen Technologies is a leading designer and manufacturer of ARM based embedded computing products since 2015.
