@@ -34,7 +34,7 @@ Because PANZER-LITE93 has a NPU inside the CPU, so we implementing AI functions 
 | USB | 1x USB 2.0 host <br /> 1 x USB type-C |
 | FLEXCAN | 2x PIN-HEADER |
 | 40 Pin Header | SPI <br> GPIO <br> I2C |
-| General I/O | <br /> 3 x custom key <br /> 1x RTC <br> 1x EEPROM|
+| General I/O | 3 x custom key <br /> 1x RTC <br> 1x EEPROM|
 | Debug | USB type-C connector |
 | Supply Voltage | 5Volt USB type-C connector |
 | Dimensions | 155 x 110 x 35 (mm) |
