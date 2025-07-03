@@ -18,7 +18,7 @@ Because PANZER-LITE93 has a NPU inside the CPU, so we implementing AI functions 
 #### Overview
 |                         Lightweight AIOT Computing                         | Description                                                  |                       BSP support                       |                       Instruction                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------- | :---------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/user-attachments/assets/3df16d8e-c3fe-4ad1-a475-d0e72f498828" width="200"/> | **PANZER-LITE93** <br />     3.5" ARM64 edge AI Computing with NXP i.MX93 |  Ubuntu LTS |[Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-LITE93/wiki/Ubuntu-Zone) |
+| <img src="https://github.com/user-attachments/assets/3df16d8e-c3fe-4ad1-a475-d0e72f498828" width="200"/> | **PANZER-LITE93** <br />  ARM64 edge AI Computing with NXP i.MX93 |  Ubuntu LTS |[Ubuntu Zone](https://github.com/MayQueenTechCommunity/PANZER-LITE93/wiki/Ubuntu-Zone) |
 
 
 |                         Specifications                         |                                                   |
