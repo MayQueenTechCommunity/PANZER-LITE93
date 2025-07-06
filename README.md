@@ -33,7 +33,7 @@ Because PANZER-LITE93 has a NPU inside the CPU, so we implementing AI functions 
 | Network | 2x Gigabit Ethernet / RGMII <br> 1x WiFi6 <br> 1x Bluetooth 5 <br> 1x ZigBee |
 | USB | 1x USB 2.0 host <br /> 1 x USB type-C |
 | FLEXCAN | 2x PIN-HEADER |
-| 40 Pin Header | SPI <br> GPIO <br> I2C |
+| 40 Pin Header | Compatible with Raspberry PI |
 | General I/O | 3 x custom key <br /> 1x RTC <br> 1x EEPROM|
 | Debug | USB type-C connector |
 | Supply Voltage | 5Volt USB type-C connector |
