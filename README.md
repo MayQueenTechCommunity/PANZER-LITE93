@@ -4,7 +4,7 @@
 ### MayQueen introduces PANZER-LITE93
 Which is an edge fanless AIOT Computing based on NXP i.MX93 processor
 
-Designed to bring out the full capabilities of the i.MX93 SoC, PANZER-LITE93 provides 2GB RAM and 32GB eMMC, 2 Gigabit Ethernet, RGMII, 1x USB 2.0 ports, 2 CANFD and 40 pin  header with raspberry PI compatible. Display connectivity is supported with HDMI. Measuring just 109.4 x 69.4 x 37.6 mm size with 3D-printed enclosure, PANZER-LITE93 also features wireless WiFi 802.11ac, Bluetooth 5.x, and IEEE802.15.4(Zigbee) functions. PANZER-LITE93 is offered with temperature range of 0C to 40C.
+Designed to bring out the full capabilities of the i.MX93 SoC, PANZER-LITE93 provides 2GB RAM and 32GB eMMC, 2x Gigabit Ethernet, RGMII, 1x USB 2.0 ports, 2x CANFD and 40 pin  header with raspberry PI compatible. Display connectivity is supported with HDMI. Measuring just 109.4 x 69.4 x 37.6 mm size with 3D-printed enclosure, PANZER-LITE93 also features wireless WiFi 802.11ac, Bluetooth 5.x, and IEEE802.15.4(Zigbee) functions. PANZER-LITE93 is offered with temperature range of 0C to 40C.
 
 Excellent connectivity, low cost and small size make PANZER-LITE93 a modular solution for many applications such as AIOT Computing, IIoT gateway, robotic controller, and low power efficiency device. In addition, PANZER-LITE93 incorporates numerous design innovations on its 3D-printed plastic shell, such as easy disassembly and the addition of a dedicated shield for debugging/programming software. This feature allows you to perform development tasks without the need to dismantle the entire casing.
 
