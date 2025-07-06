@@ -40,7 +40,22 @@ Because PANZER-LITE93 has a NPU inside the CPU, so we implementing AI functions 
 | Dimensions | 109.4 x 69.4 x 37.6 (mm) |
 | Weight | 126g |
 | Temp. range | 0C to 40C |
-<br>
+
+#### Accessories
+
+|Supported Mayqueen E-paper|Type|Status|
+|---|---|---|
+|PIXPAPER-212-C|A55-Peripherals<br> M33-FreeRTOS <br> A55-DRM|&#10004; <br> &#10004; <br> &#x23F3;|
+|PIXPAPER-212-M|A55-Peripherals<br> M33-FreeRTOS <br> A55-DRM|&#10004; <br> &#10004; <br> &#x23F3;|
+
+|Supported Camera|Interface|Status|
+|---|---|---|
+|Logitech C270|UVC|&#10004;|
+|IMX219 |MIPI-CSI|&#x23F3;|
+|IMX462 |MIPI-CSI|&#x23F3;|
+|E-CON e-CAM22_CURZH|MIPI-CSI|&#x23F3;|
+
+
 
 #### Video Introduction
 [![(133) [PANZER-LITE93] i.MX93 AIOT Pocket Computing - YouTube](https://res.cloudinary.com/marcomontalbano/image/upload/v1751767474/video_to_markdown/images/youtube--JOhQI1cNJY4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JOhQI1cNJY4 "(133) [PANZER-LITE93] i.MX93 AIOT Pocket Computing - YouTube")
