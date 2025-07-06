@@ -27,7 +27,7 @@ Because PANZER-LITE93 has a NPU inside the CPU, so we implementing AI functions 
 | Memory | 2GB LPDDR4 |
 | Storage | 32GB eMMC <br /> uSD slot|
 | Neural Nework | 0.5 TOPS NPU |
-| PMIC | NXP PCA9452 |
+| PMIC | NXP PCA9415A |
 | Display | HDMI-TX|
 | Audio | Headset connector |
 | Network | 2x Gigabit Ethernet / RGMII <br> 1x WiFi6 <br> 1x Bluetooth 5 <br> 1x ZigBee |
